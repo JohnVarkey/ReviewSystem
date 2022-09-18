@@ -1,0 +1,14 @@
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\bin\Debug\net6.0\ReviewSystemDb.deps.json
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\bin\Debug\net6.0\ReviewSystemDb.runtimeconfig.json
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\bin\Debug\net6.0\ReviewSystemDb.dll
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\bin\Debug\net6.0\ReviewSystemDb.pdb
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.csproj.AssemblyReference.cache
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.AssemblyInfoInputs.cache
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.AssemblyInfo.cs
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.csproj.CoreCompileInputs.cache
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.dll
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\refint\ReviewSystemDb.dll
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.pdb
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ReviewSystemDb.genruntimeconfig.cache
+D:\Training\DotNet\ReviewSystem\ReviewSystemDb\obj\Debug\net6.0\ref\ReviewSystemDb.dll

@@ -15,10 +15,10 @@ namespace ExternalReviewApi.Models
         FOUR,
         FIVE
     }
-    public class DummyGoogleReview : IReviewResponse
+    public class DummyGoogleReview : ReviewBase
     {
         public string ReviewId { get; set; }
-        public string Source { get; } = "Google";
+        public override string Source { get; } = "Google";
         public DateTime CreateTime { get; set; }
         public User user { get; set; }
         public string Rating { get; set; }

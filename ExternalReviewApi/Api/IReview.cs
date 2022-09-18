@@ -1,4 +1,6 @@
-﻿namespace ExternalReviewApi
+﻿using ExternalReviewApi.Models;
+
+namespace ExternalReviewApi
 {
     public interface IReview
     {
